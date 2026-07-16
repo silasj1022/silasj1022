@@ -1,16 +1,47 @@
-## Hi there 👋
+# Justin Silas
 
-<!--
-**silasj1022/silasj1022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Forward-Deployed AI & Enterprise Data Leader**  
+Agentic AI Â· RAG Â· Evaluation Â· Responsible AI Â· Salesforce Integration Â· Federal Modernization
 
-Here are some ideas to get you started:
+I design auditable AI and data platforms that connect enterprise knowledge, operational workflows, governance controls, and measurable outcomes. My public work uses synthetic data so reviewers can inspect the architecture, code, evaluation, and security decisions without exposing employer, customer, government, or student information.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+### [Enterprise Agent Foundry](https://github.com/silasj1022/forward-deployed-ai-lab)
+
+A released, reproducible reference implementation of a forward-deployed enterprise AI workflow:
+
+- framework-neutral agent orchestration and approved-knowledge BM25 retrieval;
+- grounded responses, policy controls, and prompt-injection defenses;
+- Salesforce REST/SOQL integration with synthetic Account and Case context;
+- named human approval before consequential system-of-record changes;
+- deterministic golden-set and adversarial release gates;
+- FastAPI, Docker, GitHub Actions, CodeQL, dependency review, and signed release provenance.
+
+**Public validation:** Python 3.11-3.13 CI Â· 21 tests Â· 87.03% coverage Â· 10/10 golden cases Â· 8/8 red-team cases
+
+[Review the code](https://github.com/silasj1022/forward-deployed-ai-lab) Â· [Read the recruiter guide](https://github.com/silasj1022/forward-deployed-ai-lab/blob/main/docs/recruiter-guide.md) Â· [Open release v0.4.0](https://github.com/silasj1022/forward-deployed-ai-lab/releases/tag/v0.4.0)
+
+> Results above validate a small synthetic workflow and its controls. They do not claim production scale, real-user adoption, Salesforce platform tenure, or external model quality.
+
+## What I bring
+
+- 20+ years across federal, healthcare, education, and private-sector data environments
+- Enterprise platform ownership, Python/SQL engineering, hybrid-cloud integration, and CI/CD
+- Customer-facing architecture, executive advisory, technical mentoring, and roadmap leadership
+- AI evaluation, red teaming, human-in-the-loop controls, auditability, and responsible-AI governance
+- MBA, M.S. in Data Analytics, M.Ed., and doctoral study in AI/ML leadership and cybersecurity
+
+## Current engineering focus
+
+- Salesforce Developer Edition and Agentforce validation using synthetic data
+- Durable approval workflows and persistence with LangGraph
+- Tool/trajectory evaluation, MLflow evidence, and OpenTelemetry traces
+- NIST AI RMF / Generative AI Profile and OWASP-informed control evidence
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/justinsilas) Â· [Email](mailto:silasj1022@gmail.com)
+
+Active work is labeled separately from completed, tested, and released capabilities.
+
