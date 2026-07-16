@@ -1,7 +1,7 @@
 # Justin Silas
 
 **Forward-Deployed AI & Enterprise Data Leader**  
-Agentic AI Â· RAG Â· Evaluation Â· Responsible AI Â· Salesforce Integration Â· Federal Modernization
+Agentic AI - RAG - Evaluation - Responsible AI - Salesforce Integration - Federal Modernization
 
 I design auditable AI and data platforms that connect enterprise knowledge, operational workflows, governance controls, and measurable outcomes. My public work uses synthetic data so reviewers can inspect the architecture, code, evaluation, and security decisions without exposing employer, customer, government, or student information.
 
