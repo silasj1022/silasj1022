@@ -166,7 +166,9 @@ B.S., Secondary Education, Mathematics · 2014
 
 ## Credentials
 
-- Maryland Advanced Professional License
+- **Maryland Advanced Professional License (APL)** — active through June 30, 2031
+- **Endorsements:** Mathematics 7–12; Middle School Mathematics 4–9; Elementary Education 1–6; Early Childhood Education PreK–3; Generic Special Education across Infant–3, Grades 1–8, and Grades 6–Adult; Music PreK–12
+- **Ancillary proficiencies:** Special Education; Reading 3, Reading 9, and Reading 12
 - Lean Six Sigma Yellow Belt
 - Project Management Professional preparation in progress
 - U.S. Citizen
