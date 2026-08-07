@@ -1,15 +1,15 @@
 # Justin Silas, MBA, M.S. Data Analytics, M.Ed.
 
-**Principal AI Platform & Enterprise Data Leader**  
+**Applied AI Architect & Enterprise Data Leader**  
 Olney, Maryland · [silasj1022@gmail.com](mailto:silasj1022@gmail.com) · [LinkedIn](https://www.linkedin.com/in/justinsilas) · [GitHub](https://github.com/silasj1022)
 
 ---
 
 ## Executive profile
 
-AI platform engineer, enterprise data leader, and educator with 20+ years of experience across federal, healthcare, education, and private-sector environments. Combines hands-on Python and SQL engineering with agentic AI architecture, retrieval-augmented generation, enterprise BI platform ownership, data governance, executive advisory, and technical leadership.
+Applied AI architect, enterprise data leader, and educator with 20+ years of experience across federal, healthcare, education, and private-sector environments. Combines hands-on Python and SQL engineering with agentic AI architecture, retrieval-augmented generation, enterprise BI platform ownership, data governance, executive advisory, and technical leadership.
 
-Designed governed AI systems for enterprise and learning environments, including a publicly inspectable agentic AI reference implementation with retrieval, policy controls, human approval, deterministic evaluation, adversarial testing, traceability, and audit evidence. Led analytics modernization that resolved more than $1.2 million in overpayments, increased delivery throughput by 50%, reduced reporting cycle time by 40%, and increased release frequency by 60%.
+Designed governed AI systems for enterprise and learning environments, including a publicly inspectable reference implementation with retrieval, policy controls, human approval, deterministic evaluation, adversarial testing, traceability, and audit evidence. Led analytics modernization that resolved more than $1.2 million in overpayments, increased delivery throughput by 50%, reduced reporting cycle time by 40%, and increased release frequency by 60%.
 
 Currently pursuing a DBA in Artificial Intelligence and Machine Learning Leadership, with research interests in responsible AI, AI-enabled modernization, scalable analytics systems, learning technology, and research-to-practice translation.
 
@@ -17,7 +17,7 @@ Currently pursuing a DBA in Artificial Intelligence and Machine Learning Leaders
 
 ## Leadership value
 
-- Translate high-stakes mission and customer problems into governed AI platforms, data products, operating controls, and measurable outcomes.
+- Translate high-stakes mission and customer problems into governed AI systems, data products, operating controls, and measurable outcomes.
 - Lead enterprise analytics ecosystems spanning cloud data, SQL-driven ELT, semantic models, KPI governance, reconciliation, security, lineage, and executive reporting.
 - Build inspectable agentic AI workflows with retrieval, policy enforcement, approval gates, evaluation, red teaming, auditability, and safe system-of-record integration.
 - Communicate architecture, risk, tradeoffs, and performance clearly to executives, technical teams, educators, and operational stakeholders.
@@ -27,7 +27,7 @@ Currently pursuing a DBA in Artificial Intelligence and Machine Learning Leaders
 
 ## Core capabilities
 
-**AI and machine learning:** Agentic AI architecture, multi-agent orchestration, retrieval-augmented generation, BM25 retrieval, LLM integration, evaluation, red teaming, groundedness, prompt-injection defenses, human-in-the-loop approval, responsible AI, AI governance
+**AI and machine learning:** Agentic AI architecture, multi-agent orchestration, retrieval-augmented generation, BM25 retrieval, LLM integration, evaluation, red teaming, prompt-injection defenses, human-in-the-loop approval, responsible AI, AI governance
 
 **Data and analytics:** Enterprise BI platforms, SQL-driven ELT, data architecture, semantic modeling, KPI standardization, data lineage, reconciliation, risk analytics, executive dashboards, data quality, operational analytics
 
@@ -53,21 +53,21 @@ Currently pursuing a DBA in Artificial Intelligence and Machine Learning Leaders
 ## Applied AI and engineering portfolio
 
 ### Enterprise Agent Foundry
-**Independent Architect and Lead Engineer · 2026–Present**  
+**Creator and Independent Architect · 2026–Present**  
 [Repository](https://github.com/silasj1022/forward-deployed-ai-lab)
 
-Public, runnable reference implementation for governed enterprise agentic AI using synthetic data. The workflow connects enterprise context, approved knowledge, policy controls, grounded response generation, named human approval, evaluation, and tamper-evident audit evidence.
+Public, runnable reference implementation for governed agentic AI using synthetic data. The project demonstrates how approved knowledge, policy controls, human approval, evaluation, adversarial testing, API delivery, and tamper-evident audit evidence can be combined in an inspectable workflow.
 
 - Designed a multi-stage workflow covering intake, enterprise context, retrieval, policy evaluation, response/action proposal, approval, release gating, and audit.
 - Implemented approved-knowledge BM25 retrieval with role filtering and source citations.
 - Built prompt-injection, secret-exfiltration, data-minimization, and destructive-action controls.
-- Implemented approval-controlled Salesforce Case action proposals with separate read, proposal, approval, and execution boundaries.
+- Implemented a Salesforce REST/SOQL integration pattern with synthetic fallback and explicit separation of read, proposal, approval, and execution boundaries.
 - Built deterministic golden-set and adversarial evaluation gates that run without API keys.
 - Implemented hash-chained append-only audit events, secret redaction, structured stage tracing, FastAPI/OpenAPI, Docker, Kubernetes manifests, and CI/security automation.
-- Verified **30 automated tests**, **88.43% branch coverage**, **10/10 golden-set scenarios**, **8/8 adversarial scenarios**, and **0.9913 mean groundedness** on the included synthetic evaluation set.
+- Verified **30 automated tests**, **88.43% branch coverage**, **10/10 synthetic golden-set scenarios**, and **8/8 synthetic adversarial scenarios**.
 - Documented explicit evidence levels distinguishing verified, implemented, optional, and planned capabilities.
 
-**Technologies:** Python, FastAPI, Pydantic, BM25, Salesforce REST/SOQL, LangGraph extension path, MLflow extension path, Docker, Kubernetes, GitHub Actions, CodeQL, dependency review
+**Technologies:** Python, FastAPI, Pydantic, BM25, Salesforce REST/SOQL, Docker, Kubernetes, GitHub Actions, CodeQL, dependency review; additional framework and observability extensions are clearly labeled by implementation status.
 
 ### K–12 AI Tutoring and Governance Platform
 **Independent Architect · 2024–Present**
@@ -175,9 +175,9 @@ B.S., Secondary Education, Mathematics · 2014
 
 ---
 
-## Target leadership roles
+## Target roles
 
-Principal AI Platform Engineer · Lead AI Architect · Forward-Deployed AI Engineer · Enterprise Data Architect · Responsible AI Leader · Applied AI and Education Technology Leader · Director of AI/Data Platforms
+AI Architect · Applied AI Engineer · AI Platform Lead · Enterprise Data Architect · Forward-Deployed AI Engineer · Responsible AI Leader · Applied AI and Education Technology Leader · Director of AI/Data Platforms
 
 ---
 
