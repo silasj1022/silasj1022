@@ -1,16 +1,16 @@
 # Justin Silas
 
-## Principal AI Platform & Enterprise Data Leader
+## Applied AI Architect & Enterprise Data Leader
 
-**Forward-Deployed AI · Agentic Systems · RAG · Evaluation · Responsible AI · Federal Modernization**
+**Governed AI Systems · Agentic Workflows · RAG · Enterprise Data Platforms · Responsible AI · Modernization**
 
-I design governed AI and data platforms that connect enterprise knowledge, operational workflows, policy controls, and measurable outcomes. My background spans more than 20 years across federal, healthcare, education, and private-sector environments, combining hands-on Python and SQL engineering with enterprise architecture, BI platform ownership, executive advisory, and academic leadership.
+I design governed AI and data systems that connect enterprise knowledge, operational workflows, policy controls, and measurable outcomes. My background spans more than 20 years across federal, healthcare, education, and private-sector environments, combining hands-on Python and SQL engineering with enterprise architecture, BI platform ownership, executive advisory, and academic leadership.
 
 [View the modern CV](CV.md) · [Read the recruiter brief](RECRUITER_BRIEF.md) · [LinkedIn](https://www.linkedin.com/in/justinsilas) · [Email](mailto:silasj1022@gmail.com)
 
 ---
 
-## Executive impact
+## Selected impact
 
 | Business outcome | Measurable result |
 |---|---:|
@@ -25,24 +25,23 @@ I design governed AI and data platforms that connect enterprise knowledge, opera
 
 ---
 
-## Featured engineering evidence
+## Featured engineering project
 
 ### [Enterprise Agent Foundry](https://github.com/silasj1022/forward-deployed-ai-lab)
 
-A public, runnable reference implementation for governed enterprise agentic AI. It demonstrates the full workflow from intake and approved-knowledge retrieval through policy evaluation, named human approval, controlled system-of-record actions, release gating, and tamper-evident audit evidence.
+A public, runnable reference implementation for governed agentic AI using synthetic data. It demonstrates approved-knowledge retrieval, policy controls, human approval, evaluation, adversarial testing, API delivery, and tamper-evident audit logging without presenting the project as a production deployment.
 
-**Verified release-candidate evidence**
+**Verified repository evidence**
 
 - **30 automated tests** across Python 3.11–3.13
 - **88.43% branch coverage** with an enforced 80% minimum
-- **10/10 golden-set scenarios** passing
-- **8/8 adversarial scenarios** passing
-- **0.9913 mean groundedness** on the included synthetic evaluation set
-- Clean wheel and source-distribution installs plus container health validation
+- **10/10 synthetic golden-set scenarios** passing
+- **8/8 synthetic adversarial scenarios** passing
+- Clean package installation and container health validation
 
-**Architecture and delivery:** Python, FastAPI, Pydantic, BM25 retrieval, agent orchestration, Salesforce REST/SOQL, approval-controlled writes, deterministic evaluation, red teaming, hash-chained audit events, Docker, Kubernetes manifests, GitHub Actions, CodeQL, dependency review, and release provenance configuration.
+**Architecture and delivery:** Python, FastAPI, Pydantic, BM25 retrieval, agent orchestration, Salesforce REST/SOQL integration pattern, approval-controlled actions, deterministic evaluation, red teaming, hash-chained audit events, Docker, Kubernetes manifests, GitHub Actions, CodeQL, and dependency review.
 
-> The project uses synthetic data and clearly separates verified, implemented, optional, and planned capabilities. The evidence validates the repository workflow and controls—not production scale, real-user adoption, or external model quality.
+> These results validate the included synthetic workflow, controls, and test corpus. They do not claim production scale, external model quality, customer adoption, platform certification, or production Salesforce tenure.
 
 ---
 
@@ -60,9 +59,9 @@ A retrieval-grounded tutoring system designed for Canvas LMS and gateway courses
 
 ## What I deliver
 
-- **AI platform architecture:** agentic workflows, RAG, policy enforcement, human-in-the-loop approval, evaluation, red teaming, traceability, and responsible-AI controls.
+- **Applied AI architecture:** agentic workflows, RAG, policy enforcement, human-in-the-loop approval, evaluation, red teaming, traceability, and responsible-AI controls.
 - **Enterprise data modernization:** hybrid-cloud data ecosystems, SQL-driven ELT, semantic models, KPI governance, lineage, reconciliation, and executive analytics.
-- **Forward-deployed execution:** translate mission and customer problems into inspectable architectures, working software, operational controls, and measurable outcomes.
+- **End-to-end technical delivery:** translate mission and customer problems into inspectable architectures, working software, operational controls, and measurable outcomes.
 - **Leadership and communication:** executive advisory, platform roadmaps, cross-functional delivery, faculty leadership, technical mentoring, and research-to-practice translation.
 - **Regulated-environment discipline:** federal compliance, audit readiness, least privilege, data minimization, and evidence-based claims.
 
@@ -73,7 +72,7 @@ A retrieval-grounded tutoring system designed for Canvas LMS and gateway courses
 **Languages and engineering:** Python, SQL, Node.js, R, SAS, FastAPI, Pydantic, REST APIs, Git, automated testing, CI/CD  
 **AI and data:** agentic AI, retrieval-augmented generation, BM25, LLM integration, evaluation, adversarial testing, semantic modeling, data lineage, risk analytics  
 **Cloud and enterprise platforms:** AWS Data Lake, Amazon Athena, Microsoft Fabric, Power BI, Power Apps, SharePoint, Salesforce REST/SOQL, Docker, Kubernetes  
-**Current portfolio focus:** LangGraph persistence, MLflow evidence, OpenTelemetry traces, Agentforce validation, NIST AI RMF, and OWASP-informed controls
+**Current engineering focus:** durable agent workflows, evaluation and observability, enterprise integration patterns, and responsible-AI controls
 
 ---
 
@@ -101,6 +100,6 @@ A retrieval-grounded tutoring system designed for Canvas LMS and gateway courses
 
 ## Professional positioning
 
-I am best aligned to **Principal or Lead AI Platform Engineer, AI Architect, Forward-Deployed AI Engineer, Enterprise Data Architect, Responsible AI Leader, and technical strategy roles** where organizations need both engineering depth and executive-level translation.
+I am best aligned to **AI Architect, Applied AI Engineer, AI Platform Lead, Enterprise Data Architect, Responsible AI Leader, Forward-Deployed AI Engineer, and Director-level AI/data platform roles** where organizations need both technical delivery and executive-level translation.
 
-My public work uses synthetic data so reviewers can inspect architecture, code, evaluation, security, and governance decisions without exposing employer, customer, government, or student information. Active work is labeled separately from completed, tested, and released capability.
+My public work uses synthetic data so reviewers can inspect architecture, code, evaluation, security, and governance decisions without exposing employer, customer, government, or student information. Active work is labeled separately from completed and verified capability.
