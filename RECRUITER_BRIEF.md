@@ -1,6 +1,6 @@
 # Justin Silas — Recruiter Brief
 
-## Principal AI Platform and Enterprise Data Leader
+## Applied AI Architect and Enterprise Data Leader
 
 Justin Silas combines **hands-on AI engineering, enterprise data-platform leadership, federal analytics experience, and more than a decade in education and academic leadership**. He is strongest in roles that require both technical depth and the ability to translate architecture, risk, governance, and measurable outcomes for executives and customers.
 
@@ -24,8 +24,8 @@ Justin Silas combines **hands-on AI engineering, enterprise data-platform leader
 
 ## Best-fit roles
 
-- Principal or Lead AI Platform Engineer
-- AI Architect or Agentic AI Architect
+- AI Architect or Applied AI Architect
+- Applied AI Engineer or AI Platform Lead
 - Forward-Deployed AI Engineer
 - Enterprise Data Architect
 - Director of AI or Data Platforms
@@ -45,12 +45,12 @@ The **Enterprise Agent Foundry** is a public reference implementation that revie
 - agent workflow orchestration;
 - policy and prompt-injection controls;
 - named human approval before consequential actions;
-- Salesforce-ready read/proposal/approval/execution boundaries;
+- a Salesforce REST/SOQL integration pattern with synthetic fallback;
 - deterministic golden-set and adversarial release gates;
 - hash-chained audit evidence and structured tracing;
 - FastAPI/OpenAPI, Docker, Kubernetes manifests, GitHub Actions, CodeQL, and dependency review.
 
-Current synthetic validation includes **30 tests, 88.43% branch coverage, 10/10 golden cases, 8/8 adversarial cases, and 0.9913 mean groundedness**.
+Current synthetic validation includes **30 tests, 88.43% branch coverage, 10/10 golden cases, and 8/8 adversarial cases**. These are scoped workflow-validation results, not claims of production deployment or external model quality.
 
 ### 2. Measurable enterprise impact
 
@@ -101,7 +101,7 @@ His portfolio explicitly distinguishes what is **verified, implemented, optional
 
 ## Honest scope
 
-The public AI portfolio uses synthetic data. Its metrics validate the included workflow, tests, controls, and evaluation set; they do not claim production-scale deployment, real-user adoption, external model quality, or compliance certification. The DBA is in progress and is not represented as a completed doctorate.
+The public AI portfolio uses synthetic data. Its metrics validate the included workflow, tests, controls, and evaluation set; they do not claim production-scale deployment, real-user adoption, external model quality, platform certification, or production Salesforce tenure. The DBA is in progress and is not represented as a completed doctorate.
 
 ---
 
